@@ -1,0 +1,17 @@
+export enum Keys {
+  enter = 'Enter',
+  backspace ='Backspace',
+  delete ='Delete',
+  ctrlA = 'Control+A',
+  ctrlAMacOs = 'Meta+A',
+  tab = 'Tab',
+  escape = 'Escape',
+  arrowDown = 'ArrowDown',
+  end = 'End',
+  home = 'Home',
+  insert = 'Insert',
+  pageDown = 'PageDown',
+  pageUp = 'PageUp',
+  arrowRight = 'ArrowRight',
+  arrowUp = 'ArrowUp',
+}
